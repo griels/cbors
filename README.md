@@ -8,7 +8,7 @@ Wraps the excellent [serde_cbor](https://github.com/pyfisch/cbor) crate and prov
 
 ## Installation
 
-Python>=3.5 is required due to the requirements of pyo3.
+Python>=3.8 is required due to the requirements of pyo3.
 
 Recommended to install from [PyPI](https://pypi.org/project/cbors/), e.g.
 
